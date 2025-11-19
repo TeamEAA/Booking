@@ -1,7 +1,7 @@
 // ==========================================
 // ★設定：GASのウェブアプリURLをここに貼る
 // ==========================================
-const GAS_API_URL = "https://script.google.com/macros/s/AKfycby3JLdsuCWQO1EJ6VbRVn7kuod88-GFb-X9r3OWnYg3x0rmn9BulcxQtMQJKXLNq0qU/exec";
+const GAS_API_URL = "https://script.google.com/macros/s/AKfycbx_wz9l14u8bXOIsNraNOPXUv2_6zLxzm4AfY6kAptQp0oaNqgAHRAoy9-XK04CXED4/exec";
 // ==========================================
 
 window.onload = loadSlots;
